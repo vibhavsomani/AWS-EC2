@@ -17,8 +17,8 @@ provider "aws" {
     alias = "secondary_region"
     region = var.secondary_region
 
-    access_key = "AKIA3AABHFBPNRE6ANPQ"
-    secret_key = "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"
+    access_key = "xxxx"
+    secret_key = "xxxx"
 
     /* assume_role {
     role_arn    = "arn:aws:iam::755916810334:instance-profile/ec2AssumeRole"
