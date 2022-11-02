@@ -16,8 +16,8 @@ terraform {
 provider "aws" {
     /* shared_credentials_files = ["$HOME/.aws/credentials"]
     profile = "default" */
-    access_key = "AKIA5ELEUIEBGNE3I34V"
-    secret_key = "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"
+    access_key = "xxx"
+    secret_key = "xxx/xxx"
 }
 
 /* provider "vault" {
